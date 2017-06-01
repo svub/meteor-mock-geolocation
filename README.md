@@ -1,8 +1,8 @@
 # meteor-mock-geolocation
-Manipulate the browser's geolocation API to mock locations for testing puposes.
+A module for Meteor.js to manipulate the browser's geolocation API to mock locations for testing puposes.
 
 ## How to use
-Add to your project
+Add to your Meteor project
   meteor add svub:mock-location
 
 Initialize the module by calling either
